@@ -1,0 +1,5 @@
+{
+  "name": "LabAutoNet Designer",
+  "description": "A generative AI-powered tool for designing lab automation workflows with dependency graphs and compatibility checks.",
+  "requestFramePermissions": []
+}
